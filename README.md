@@ -1,2 +1,2 @@
 # yelp-camp
-Demo app project for a social campground sharing site
+A demo Express app in Node.js for a social campground sharing site
