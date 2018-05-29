@@ -1,2 +1,2 @@
 # yelp-camp
-Demo app project
+Demo app project for a social campground sharing site
