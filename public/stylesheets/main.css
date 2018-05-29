@@ -1,0 +1,13 @@
+.delete-form {
+    display: inline;
+}
+
+#form-header {
+    text-align: center; 
+    margin-top: 20px;
+}
+
+#form-styles {
+    width: 30%; 
+    margin: 25px auto;
+}
